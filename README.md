@@ -9,6 +9,6 @@ I created this extension as a response to my daily problem of forgetting <br> an
 
 *PasteBase* is a React based application, utilizing the [Navigator API](https://developer.mozilla.org/en-US/docs/Web/API/Navigator) to handle the <br>copy pasting. The rest is vanilla JS and HTML.
 
-#### Where do I get it?
+#### Where can I get it?
 
 You can check out the Chrome Web Store entry [here](https://chrome.google.com/webstore/detail/pastebase/gmdeaigadfgaocinogdkaomlgeoeckbm).
