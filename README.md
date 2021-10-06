@@ -3,7 +3,7 @@ A quick and nifty place to store your frequent copy pastes!
 
 #### Background:
 
-I created this extension as a response to my daily problem of forgetting <br> an account number (or ID or anything that is something similar to that <br> nature) and having to re-open my Gmail for the thousandth time just to <br> get that email, copy that number/ID, and paste it... only to forget it again <br> the following day. The vicious cycle stops now!
+I created this extension as a response to my daily problem of forgetting <br> an account number (or ID or anything that is quite similar to that <br> nature), prompting me to re-open my Gmail for the thousandth time just to <br> get that email, copy that number/ID, and paste it... only to forget it again <br> the following day. The vicious cycle stops now!
 
 #### About:
 
